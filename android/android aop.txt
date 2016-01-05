@@ -1,0 +1,5 @@
+http://www.jianshu.com/p/14edcb444c51  阿里aop框架 DexPosed
+
+http://my.oschina.net/u/1378920/blog/466432  自定义实现  aop框架
+
+http://blog.csdn.net/innost/article/details/49387395  深入理解  AspectJ apo框架
