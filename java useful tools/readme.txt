@@ -5,3 +5,5 @@ XLog : 简单的日志打印工具。github中gradle工程
 
 Dexposed : alibaba 开发，必属精品，提供java(android)中AOP、热更新等功能。github中gradle工程
 
+java闭包：http://blog.csdn.net/autumn20080101/article/details/8128886
+
