@@ -1,1 +1,2 @@
 http://blog.jobbole.com/71999/
+http://wiki.jikexueyuan.com/project/gradle/java-quickstart.html
