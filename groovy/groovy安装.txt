@@ -1,6 +1,4 @@
-http://dist.springsource.org/snapshot/GRECLIPSE/e3.7/index.html
-下载zip文件，解压缩后，把features和plugins复制到eclipse安装目录下，重启eclipse即可
-
+一定要使用 eclipse for j2ee developer
 
 http://www.groovy-lang.org/  下载 windows installer安装groovy
 http://www.groovy-lang.org/groovy-dev-kit.html 参考文档
