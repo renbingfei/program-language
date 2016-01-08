@@ -5,3 +5,5 @@ http://www.groovy-lang.org/
 http://www.groovy-lang.org/groovy-dev-kit.html
 
 http://blog.csdn.net/kmyhy/article/details/4200563  中文教程（推荐）
+
+http://www.ibm.com/developerworks/cn/java/j-pg/   教程（xml解析和创建等）
